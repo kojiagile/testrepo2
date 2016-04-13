@@ -1,1 +1,2 @@
 Hi my name is Koji.
+I'm learning how to use Git and Source Tree.
