@@ -1,2 +1,4 @@
 Hi my name is Koji.
 I'm learning how to use Git and Source Tree.
+
+Someone is using the toilet for a long time...
