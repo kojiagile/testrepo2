@@ -7,3 +7,8 @@ What the hell?
 Spece key is not really working.
 This is master branch. I'm changing stuff.
 aaa
+
+This is development branch.
+I'm still learning how to use GitHub.
+
+Oh it is quite well huh?
